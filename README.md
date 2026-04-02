@@ -36,3 +36,19 @@ This project analyzes a digital music store database (Chinook) using SQL and Tab
 - Only three employees actively support customers
 - Among active employees, workload is relatively balanced
 
+## 📊 Dashboard & Visualizations Preview
+### Revenue by Country
+![Revenue](revenue_by_country.png)
+
+### Revenue by Artist
+![ArtistRevenue](revenue_by_artist.png)
+
+### Most Popular Genres
+![Popular](most_sold_genres.png)
+
+### Top Customers
+![Customers](top_customers.png)
+
+### Employee Support
+![Employee](employee_support.png)
+ 
