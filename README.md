@@ -24,11 +24,13 @@ This project analyzes a digital music store database (Chinook) using SQL and Tab
 ## 📁 Files
 - `chinook_analysis.sql` → SQL queries
 - `chinook_dashboard.twbx` → Tableau Dashboard
+- `chinook_dashboard.png`→ Tableau Dashboard
 - `top_customers.png` → Top customers by spending
 - `most_sold_genres.png` → Top genres by tracks sold
 - `revenue_by_country.png` → Revenue by country 
 - `revenue_by_artist.png` → Revenue by artist
 - `employee_support.png` → Customers supported by each employee
+
 ## 💡 Key Insights
 - Customer spending is relatively evenly distributed 
 - Certain countries, such as the US and Canada, dominate sales 
@@ -37,6 +39,10 @@ This project analyzes a digital music store database (Chinook) using SQL and Tab
 - Among active employees, workload is relatively balanced
 
 ## 📊 Dashboard & Visualizations Preview
+
+### Summary Dashboard
+![Summary](chinook_dashboard.png)
+
 ### Revenue by Country
 ![Revenue](revenue_by_country.png)
 
@@ -51,4 +57,5 @@ This project analyzes a digital music store database (Chinook) using SQL and Tab
 
 ### Employee Support
 ![Employee](employee_support.png)
+
  
